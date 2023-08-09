@@ -8,4 +8,4 @@ And if we add a point `B = [0.5 0.5]` which says point B at x 0.5 and y 0.5<br>
 <img src="./images/Screenshot 2023-08-09 170339.png">
 
 ## Vector addition
-In the 
+In [Essential of vector](../../vital-concepts/vector/README.md), adding vectors result in a new vector 

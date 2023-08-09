@@ -1,3 +1,3 @@
-# Algorithms
-+ [**Vital concepts**]()<br>
-+ [**Linear algebra algorithms**]()
+  # Algorithms
++ [**Vital concepts**](./vital-concepts/README.md)<br>
++ [**Linear algebra algorithms**](./linear-algebra/README.md)<br>

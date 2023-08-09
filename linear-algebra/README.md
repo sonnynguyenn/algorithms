@@ -1,6 +1,7 @@
 # Linear Algebra Algorithms
 
 ## Fundamentals
+[Vectors in linear algebra]() <br/>
 [Dot product]() <br/>
 [Cross product]() <br/>
 [Linear transoformation]() <br/>

@@ -1,5 +1,5 @@
 # Linear Algebra Algorithms
-In the scope of this repo, we only discovered 1D,2D, and 3D linear algebra.
+In the scope of this repo, we only discovered 1D, 2D, and 3D linear algebra.
 ## Fundamentals
 [Vectors in linear algebra]() <br/>
 [Dot product]() <br/>

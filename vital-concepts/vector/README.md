@@ -27,4 +27,4 @@ u*v = [ u.x * v.x, u.y * v.y, u.z * v.z]
 ```
 u/v = [ u.x / v.x, u.y / v.y, u.z / v.z]
 ```
-
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$

@@ -27,3 +27,6 @@ u*v = [ u.x * v.x, u.y * v.y, u.z * v.z]
 ```
 u/v = [ u.x / v.x, u.y / v.y, u.z / v.z]
 ```
+
+## Normalize
+A *normalized vector* is a vector that has magnitude of 1. The magnitude can be calculate by this formula : mag = sqrt(v.x<sup>2</sup>+v.y<sup>2</sup>+v.z<sup>2</sup>+... );

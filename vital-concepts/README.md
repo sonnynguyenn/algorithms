@@ -2,4 +2,4 @@
 + [Vector](./vector/README.md)
 + [Matrix](./matrix/README.md)
 + Math
-  - [Completing square]()
+  - [Quadratic equation]()

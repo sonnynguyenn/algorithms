@@ -11,3 +11,5 @@ In the scope of this repo, we only discovered 1D, 2D, and 3D linear algebra.
   1. [How rotation works in linear algebra]()
   3. [Basic rotating]()
   4. [Axis rotating]()
+- **Intersection**
+  1. [Ray from an origin sphere/circle intersection ]()

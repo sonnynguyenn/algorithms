@@ -9,3 +9,8 @@ Through this, the two $\{b \over 2a}x\$ can be assigned to two sides of the $\ x
 ![](https://github.com/sonnynguyenn/algorithms/blob/main/vital-concepts/math/quadratic-equation/images/qe-image-3.png)<br/>
 Adding $\({b \over 2a})^2\$ or $\{b^2 \over 4a^2}\$ to the missing gap of the square on the left to complete the square $\(x+{b \over 2a})^2 = {c \over a} + {b^2 \over 4a^2}\$<br/>
 ![](https://github.com/sonnynguyenn/algorithms/blob/main/vital-concepts/math/quadratic-equation/images/qe-image-4.png)<br/>
+And then solve the equation
+<br>
+$\ (x + {b \over 2a})^2 = {c \over a} + {b^2 \over 4a^2}\$ <br>
+$\ x + {b \over 2a} = ±\sqrt{{c \over a} + {b^2 \over 4a^2}} = ±\sqrt{{4ac \over 4a^2} + {b^2 \over 4a^2}} = {±\sqrt{4ac + b^2} \over 2a}\$  <br>
+$\ x = {±\sqrt{4ac + b^2} - b \over 2a}\$ <br>

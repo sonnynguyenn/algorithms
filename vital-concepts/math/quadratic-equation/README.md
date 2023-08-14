@@ -5,3 +5,4 @@
 + Divide everything with constant *a*
 $\ x^2 + {b \over a}x = {c \over a}\$
 + Imagine the current equation is like this<br>
+<img src="./images/">

@@ -7,4 +7,5 @@ Or the $\{b \over a}\$ can be divide to two halves $\{b \over 2a}\$ <br>
 ![](https://github.com/sonnynguyenn/algorithms/blob/main/vital-concepts/math/quadratic-equation/images/quadratic-equation-image-2.png)<br/>
 Through this, the two $\{b \over 2a}x\$ can be assigned to two sides of the $\ x^2\$ square<br/>
 ![](https://github.com/sonnynguyenn/algorithms/blob/main/vital-concepts/math/quadratic-equation/images/quadratic-equation-image-3.png)<br/>
-Adding $\({b \over 2a})^2\$ or $\{b^2 \over 4a^2}\$ to the missing gap of the square on the left to complete the square $\(x+{b \over 2a})^2 = {c \over a} + {b^2 \over 4a^2}\$
+Adding $\({b \over 2a})^2\$ or $\{b^2 \over 4a^2}\$ to the missing gap of the square on the left to complete the square $\(x+{b \over 2a})^2 = {c \over a} + {b^2 \over 4a^2}\$<br/>
+![](https://github.com/sonnynguyenn/algorithms/blob/main/vital-concepts/math/quadratic-equation/images/quadratic-equation-image-4.png)<br/>

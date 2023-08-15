@@ -16,4 +16,6 @@ $\ 1 \$,
 $\ 2 + {3 \over 5}i \$,
 ...
 ### Complex plane
-Normally, in real numbers, we can represent a number by placing them on an axis.
+Normally, in real numbers, we can represent a number by placing them on an axis.<br/>
+<img src="./images/Screenshot 2023-08-15 164125.png"><br>
+In complex numbers, it has another axis for the imaginary number ($\ i\$) which is perpendicular to the real number axis and intersects at $\ 0\$ and $\ 0i\$. The $\ i\$ axis can be perceived as the scaling of the $\ i\$.

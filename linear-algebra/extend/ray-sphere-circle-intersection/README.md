@@ -14,7 +14,7 @@ $$\sqrt{({S_x}-{O_x}-{R_x}n)^2+({S_y}-{O_y}-{R_y}n)^2+({S_z}-{O_z}-{R_z}n)^2} \l
 After expanding
 $$\sqrt{{S_x}^2 + {O_x}^2 + {R_x}^2{n}^2 -2{S_x}{O_x} -2{S_x}{R_x}n + 2{O_x}{R_x}n + {S_y}^2 + {O_y}^2 + {R_y}^2{n}^2 -2{S_y}{O_y} -2{S_y}{R_y}n + 2{O_y}{R_y}n + {S_z}^2 + {O_z}^2 + {R_z}^2{n}^2 -2{S_z}{O_z} -2{S_z}{R_z}n + 2{O_z}{R_z}n}  \le  r$$
 $${S_x}^2 + {O_x}^2 + {R_x}^2{n}^2 -2{S_x}{O_x} -2{S_x}{R_x}n + 2{O_x}{R_x}n + {S_y}^2 + {O_y}^2 + {R_y}^2{n}^2 -2{S_y}{O_y} -2{S_y}{R_y}n + 2{O_y}{R_y}n + {S_z}^2 + {O_z}^2 + {R_z}^2{n}^2 -2{S_z}{O_z} -2{S_z}{R_z}n + 2{O_z}{R_z}n  \le  r^2$$
-Isolation n
+Isolating n
 $${R_x}^2{n}^2 + {R_y}^2{n}^2 + {R_z}^2{n}^2 -2{S_x}{R_x}n -2{S_y}{R_y}n -2{S_z}{R_z}n + 2{O_x}{R_x}n + 2{O_y}{R_y}n + 2{O_z}{R_z}n \le r^2 - {S_x}^2 - {S_y}^2 - {S_z}^2 - {O_x}^2 - {O_y}^2 - {O_z}^2 + 2{S_x}{O_x} + 2{S_y}{O_y} + 2{S_z}{O_z}$$
 Make the equation become a quadratic equation ($\ ax^2 + bx = c\$):
 $$n^2({R_x}^2 + {R_y}^2+{R_z}^2) + 2n({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z}) \le r^2 - {S_x}^2 - {S_y}^2 - {S_z}^2 - {O_x}^2 - {O_y}^2 - {O_z}^2 + 2{S_x}{O_x} + 2{S_y}{O_y} + 2{S_z}{O_z}$$

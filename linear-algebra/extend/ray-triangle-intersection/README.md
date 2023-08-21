@@ -18,8 +18,8 @@ and the N is the cross-product of a segment from other points to the chosen poin
 To check if the point is inside, we need to check if the point is a line inside the rectangular space of the line. This rectangular space has a horizontal expand along the segment and a vertical expand infinitely on both sides of the segment
 For each line, we have this algorithm (*w* is the point; *s* and *e* is the start and end of the segment, based on the example above, we chose the *p<sub>1</sub>* as the origin of the normal vector, so we make $\ s = {p_1}\$ and $\ e = {p_2}\$):
 $$d = ((w-s) ÷ |(ê-ŝ)|) ⋅ ((e-s) ÷ |(ê-ŝ)|)$$
-$$d = ((w-s)÷\sqrt{({e_x}-{s_x})^2+({e_y}-{s_y})^2({e_z}-{s_z})^2}) ⋅ ((e-s)÷\sqrt{({e_x}-{s_x})^2+({e_y}-{s_y})^2({e_z}-{s_z})^2})$$
-$$d= {({w_x}-{s_x})({e_x}-{s_x})+({w_y}-{s_y})({e_y}-{s_y})({w_z}-{s_z})+({e_z}-{s_z})\over{({e_x}-{s_x})^2+({e_y}-{s_y})^2+({e_z}-{s_z})^2}}$$
+$$d = ((w-s)÷\sqrt{({e_x}-{s_x})^2+({e_y}-{s_y})^2+({e_z}-{s_z})^2}) ⋅ ((e-s)÷\sqrt{({e_x}-{s_x})^2+({e_y}-{s_y})^2+({e_z}-{s_z})^2})$$
+$$d= {({w_x}-{s_x})({e_x}-{s_x})+({w_y}-{s_y})({e_y}-{s_y})+({w_z}-{s_z})({e_z}-{s_z})\over{({e_x}-{s_x})^2+({e_y}-{s_y})^2+({e_z}-{s_z})^2}}$$
 Do the same with *p1* and *p<sub>3</sub>*, so this time $\ e = {p_3}\$
 $$t = .(do the same)..$$
 if d and t are between the range of 0 and 1, then the point land on the triangle

@@ -25,4 +25,7 @@ where
 - $\ c=r^2 - {S_x}^2 - {S_y}^2 - {S_z}^2 - {O_x}^2 - {O_y}^2 - {O_z}^2 + 2{S_x}{O_x} + 2{S_y}{O_y} + 2{S_z}{O_z}\$
 
 and then solve with this formula
-$$x = {±\sqrt{4ac+b^2}-b \over 2a}$$
+$$n = {±\sqrt{4ac+b^2}-b \over 2a}$$
+$$n = {±\sqrt{4({R_x}^2 + {R_y}^2+{R_z}^2)(r^2 - {S_x}^2 - {S_y}^2 - {S_z}^2 - {O_x}^2 - {O_y}^2 - {O_z}^2 + 2{S_x}{O_x} + 2{S_y}{O_y} + 2{S_z}{O_z})+4({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z})^2}-2({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z}) \over 2({R_x}^2 + {R_y}^2+{R_z}^2)}$$
+$$n = {±2\sqrt{({R_x}^2 + {R_y}^2+{R_z}^2)(r^2 - {S_x}^2 - {S_y}^2 - {S_z}^2 - {O_x}^2 - {O_y}^2 - {O_z}^2 + 2{S_x}{O_x} + 2{S_y}{O_y} + 2{S_z}{O_z})+({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z})^2}-2({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z}) \over 2({R_x}^2 + {R_y}^2+{R_z}^2)}$$
+$$n = {±\sqrt{({R_x}^2 + {R_y}^2+{R_z}^2)(r^2 - {S_x}^2 - {S_y}^2 - {S_z}^2 - {O_x}^2 - {O_y}^2 - {O_z}^2 + 2{S_x}{O_x} + 2{S_y}{O_y} + 2{S_z}{O_z})+({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z})^2}-({O_x}{R_x} + {O_y}{R_y} + {O_z}{R_z} - {S_x}{R_x}-{S_y}{R_y}-{S_z}{R_z}) \over ({R_x}^2 + {R_y}^2+{R_z}^2)}$$
